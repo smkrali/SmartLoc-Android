@@ -4,4 +4,4 @@ A smart Received Signal Strength (RSS) based indoor localization algorithm cente
 
 Dropbox link to complete compilable project: https://www.dropbox.com/s/s4u85gacuz3a5o8/SmartLocAndroid.zip?dl=0
 
-Contributors: Kamran Ali, Alex X. Liu
+Contributors: Kamran Ali, Ijaz Haider Naqvi, Alex X. Liu
